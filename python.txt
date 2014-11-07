@@ -1,0 +1,5 @@
+1.  from binascii import hexlify  
+2. pylibpcap,scapy
+3. supervisor.xmlrpc xmlrpclib
+
+pip install -r requirements.txt --download="~/temp/packages"
